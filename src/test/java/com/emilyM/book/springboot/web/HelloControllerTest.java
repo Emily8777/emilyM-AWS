@@ -1,4 +1,4 @@
-package com.emilyM.book.sprinboot.web;
+package com.emilyM.book.springboot.web;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
