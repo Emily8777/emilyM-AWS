@@ -24,8 +24,20 @@ repositories {
 }
 
 dependencies {
-    implementation('org.springframework.boot:spring-boot-starter-web') //0921 p.37
+    implementation('org.springframework.boot:spring-boot-starter-web')
+    implementation 'org.projectlombok:lombok:1.18.22'
+    implementation 'org.projectlombok:lombok:1.18.22'//0921 p.37
     testImplementation('org.springframework.boot:spring-boot-starter-test') //0921 p.37
+
+    // lombok
+    implementation('org.projectlombok:lombok') //0922 p.67
+    annotationProcessor('org.projectlombok:lombok')
+    testImplementation('org.projectlombok:lombok')
+    testAnnotationProcessor('org.projectlombok:lombok')
+
+    // Spring Data Jpa
+    implementation('org.springframework.boot:spring-boot-starter-data-jpa')
+    implementation('com.h2database:h2')
 
     // 생성시 코드 testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
     // 생성시 코드 testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
