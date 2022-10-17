@@ -1,7 +1,9 @@
 package com.emilyM.book.springboot.web;
 
 import com.emilyM.book.springboot.service.PostsService;
+import com.emilyM.book.springboot.web.dto.PostsResponseDto;
 import com.emilyM.book.springboot.web.dto.PostsSaveRequestDto;
+import com.emilyM.book.springboot.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

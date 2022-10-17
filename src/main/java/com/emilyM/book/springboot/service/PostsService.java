@@ -36,6 +36,5 @@ public class PostsService {
 
         return new PostsResponseDto(entity);
     }
-    }
 
 }
