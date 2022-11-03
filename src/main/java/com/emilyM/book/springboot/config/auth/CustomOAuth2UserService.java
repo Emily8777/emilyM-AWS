@@ -1,5 +1,9 @@
 package com.emilyM.book.springboot.config.auth;
 
+import com.emilyM.book.springboot.config.auth.dto.OAuthAttributes;
+import com.emilyM.book.springboot.config.auth.dto.SessionUser;
+import com.emilyM.book.springboot.domain.user.User;
+import com.emilyM.book.springboot.domain.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.oauth2.client.userinfo.DefaultOAuth2UserService;

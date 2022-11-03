@@ -1,5 +1,7 @@
 package com.emilyM.book.springboot.config.auth.dto;
 
+import com.emilyM.book.springboot.domain.user.Role;
+import com.emilyM.book.springboot.domain.user.User;
 import lombok.Builder;
 import lombok.Getter;
 
