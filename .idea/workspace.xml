@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7aa013-5cf9-44a2-a810-9c01deedddcf" name="Changes" comment="new project 0923 - 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/emilyM/book/springboot/domain/BaseTimeEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="9a7aa013-5cf9-44a2-a810-9c01deedddcf" name="Changes" comment="new project 1112 - (-p.222)">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/emilyM/book/springboot/domain/posts/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emilyM/book/springboot/domain/posts/Posts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +28,26 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="emilyM-AWS" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="emilyM-AWS" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="emilyM-AWS" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -86,6 +96,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -119,16 +130,51 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.emilyM.book.springboot.config" />
       <recent name="com.emilyM.book.springboot.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PostsRepositoryTest.게시글저장_불러오기">
-    <configuration name="HelloControllerTest.helloDto가_리턴된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.Application" />
+      <module name="emilyM-AWS.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emilyM.book.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="emilyM-AWS [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IndexControllerTest.메인페이지_로딩" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="emilyM-AWS.test" />
       <extension name="coverage">
         <pattern>
@@ -137,24 +183,105 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.emilyM.book.springboot.web" />
-      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.web.HelloControllerTest" />
-      <option name="METHOD_NAME" value="helloDto가_리턴된다" />
+      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.web.IndexControllerTest" />
+      <option name="METHOD_NAME" value="메인페이지_로딩" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloResponseDtoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PostsApiControllerTest.Posts_수정된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="emilyM-AWS.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.emilyM.book.springboot.web.dto.*" />
+          <option name="PATTERN" value="com.emilyM.book.springboot.web.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.emilyM.book.springboot.web.dto" />
-      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.web.dto.HelloResponseDtoTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.emilyM.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.web.PostsApiControllerTest" />
+      <option name="METHOD_NAME" value="Posts_수정된다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsApiControllerTest.Posts_수정된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emilyM-AWS.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emilyM.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.emilyM.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.web.PostsApiControllerTest" />
+      <option name="METHOD_NAME" value="Posts_수정된다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsApiControllerTest.Posts_수정된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emilyM-AWS.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emilyM.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.emilyM.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.web.PostsApiControllerTest" />
+      <option name="METHOD_NAME" value="Posts_수정된다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsApiControllerTest.Posts_수정된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emilyM-AWS.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emilyM.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.emilyM.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.web.PostsApiControllerTest" />
+      <option name="METHOD_NAME" value="Posts_수정된다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsApiControllerTest.Posts_수정된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emilyM-AWS.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emilyM.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.emilyM.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.web.PostsApiControllerTest" />
+      <option name="METHOD_NAME" value="Posts_수정된다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsRepositoryTest.BaseTimeEntity_등록" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emilyM-AWS.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emilyM.book.springboot.domain.posts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.emilyM.book.springboot.domain.posts" />
+      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.domain.posts.PostsRepositoryTest" />
+      <option name="METHOD_NAME" value="BaseTimeEntity_등록" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,7 +290,7 @@
       <module name="emilyM-AWS.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.emilyM.book.springboot.domain.*" />
+          <option name="PATTERN" value="com.emilyM.book.springboot.domain.posts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,9 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.emilyM-AWS [test]" />
         <item itemvalue="JUnit.PostsRepositoryTest.게시글저장_불러오기" />
-        <item itemvalue="JUnit.HelloControllerTest.helloDto가_리턴된다" />
-        <item itemvalue="JUnit.HelloResponseDtoTest" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.IndexControllerTest.메인페이지_로딩" />
+        <item itemvalue="JUnit.PostsRepositoryTest.BaseTimeEntity_등록" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +363,147 @@
       <option name="project" value="LOCAL" />
       <updated>1663864718022</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new project 0930 - 1">
+      <created>1664469375026</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664469375027</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new project 1004 - 1">
+      <created>1664899052897</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664899052897</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new project 1017 - 1">
+      <created>1666015121623</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666015121623</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new project 1017 - 2">
+      <created>1666016255378</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666016255378</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new project 1026 - 1">
+      <created>1666718123044</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666718123044</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new project 1026 - 1(-p.134)">
+      <created>1666789462963</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666789462963</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new project 1026 - 2(-p.140)">
+      <created>1666793999092</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666793999092</updated>
+    </task>
+    <task id="LOCAL-00014" summary="new project 1026 - 3(-p.144)">
+      <created>1666795350266</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666795350266</updated>
+    </task>
+    <task id="LOCAL-00015" summary="new project 1026 - 4(-p.151)">
+      <created>1666803862954</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666803862954</updated>
+    </task>
+    <task id="LOCAL-00016" summary="new project 1027 - 1(-p.157)">
+      <created>1666875216673</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666875216673</updated>
+    </task>
+    <task id="LOCAL-00017" summary="new project 1027 - 2(-p.161)">
+      <created>1666882514677</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666882514677</updated>
+    </task>
+    <task id="LOCAL-00018" summary="new project 1027 - 3(-p.176)">
+      <created>1666891222833</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666891222833</updated>
+    </task>
+    <task id="LOCAL-00019" summary="new project 1101 - 1(-p.181)">
+      <created>1667314868050</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667314868050</updated>
+    </task>
+    <task id="LOCAL-00020" summary="new project 1102 - 1(-p.183)">
+      <created>1667316436127</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667316436127</updated>
+    </task>
+    <task id="LOCAL-00021" summary="new project 1102 - 2(-p.188)">
+      <created>1667316933389</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667316933389</updated>
+    </task>
+    <task id="LOCAL-00022" summary="new project 1103 - 1(-p.194)">
+      <created>1667485986461</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667485986461</updated>
+    </task>
+    <task id="LOCAL-00023" summary="new project 1103 - (-p.200)">
+      <created>1667491902010</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667491902010</updated>
+    </task>
+    <task id="LOCAL-00024" summary="new project 1107 - (-p.211)">
+      <created>1667821512566</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667821512567</updated>
+    </task>
+    <task id="LOCAL-00025" summary="new project 1109 - (-p.219)">
+      <created>1667926175355</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1667926175356</updated>
+    </task>
+    <task id="LOCAL-00026" summary="new project 1112 - (-p.222)">
+      <created>1668261277785</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1668261277785</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +517,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="emilyM" />
+                        <option value="emilyM-AWS/master" />
                       </list>
                     </value>
                   </entry>
@@ -257,6 +526,16 @@
             </State>
           </value>
         </entry>
+        <entry key="e237aafc-a89e-4e9f-bbde-1b5df83fe201">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="e237aafc-a89e-4e9f-bbde-1b5df83fe201" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -266,7 +545,27 @@
     <MESSAGE value="new project 0922 - 2" />
     <MESSAGE value="new project 0923 - 1" />
     <MESSAGE value="new project 0923 - 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project 0923 - 2" />
+    <MESSAGE value="new project 0930 - 1" />
+    <MESSAGE value="new project 1004 - 1" />
+    <MESSAGE value="new project 1017 - 1" />
+    <MESSAGE value="new project 1017 - 2" />
+    <MESSAGE value="new project 1026 - 1" />
+    <MESSAGE value="new project 1026 - 1(-p.134)" />
+    <MESSAGE value="new project 1026 - 2(-p.140)" />
+    <MESSAGE value="new project 1026 - 3(-p.144)" />
+    <MESSAGE value="new project 1026 - 4(-p.151)" />
+    <MESSAGE value="new project 1027 - 1(-p.157)" />
+    <MESSAGE value="new project 1027 - 2(-p.161)" />
+    <MESSAGE value="new project 1027 - 3(-p.176)" />
+    <MESSAGE value="new project 1101 - 1(-p.181)" />
+    <MESSAGE value="new project 1102 - 1(-p.183)" />
+    <MESSAGE value="new project 1102 - 2(-p.188)" />
+    <MESSAGE value="new project 1103 - 1(-p.194)" />
+    <MESSAGE value="new project 1103 - (-p.200)" />
+    <MESSAGE value="new project 1107 - (-p.211)" />
+    <MESSAGE value="new project 1109 - (-p.219)" />
+    <MESSAGE value="new project 1112 - (-p.222)" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project 1112 - (-p.222)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
