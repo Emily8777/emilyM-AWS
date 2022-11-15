@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7aa013-5cf9-44a2-a810-9c01deedddcf" name="Changes" comment="new project 1112 - (-p.222)">
+    <list default="true" id="9a7aa013-5cf9-44a2-a810-9c01deedddcf" name="Changes" comment="new project 1116 - (-p.298)">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,10 +127,10 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/emily/Intellij/emily-AWS",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -139,7 +139,7 @@
       <recent name="com.emilyM.book.springboot.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Gradle.emilyM-AWS [test]">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.Application" />
       <module name="emilyM-AWS.main" />
@@ -503,7 +503,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668261277785</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="new project 1116 - (-p.298)">
+      <created>1668530059674</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1668530059674</updated>
+    </task>
+    <task id="LOCAL-00028" summary="new project 1116 - (-p.298)">
+      <created>1668530408913</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1668530408913</updated>
+    </task>
+    <task id="LOCAL-00029" summary="new project 1116 - (-p.298)">
+      <created>1668530685005</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1668530685005</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new project 0921" />
     <MESSAGE value="new project 0922 - 1" />
     <MESSAGE value="new project 0922 - 2" />
     <MESSAGE value="new project 0923 - 1" />
@@ -565,7 +585,8 @@
     <MESSAGE value="new project 1107 - (-p.211)" />
     <MESSAGE value="new project 1109 - (-p.219)" />
     <MESSAGE value="new project 1112 - (-p.222)" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project 1112 - (-p.222)" />
+    <MESSAGE value="new project 1116 - (-p.298)" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project 1116 - (-p.298)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
