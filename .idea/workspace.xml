@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7aa013-5cf9-44a2-a810-9c01deedddcf" name="Changes" comment="new project 1117 - (-p.298)" />
+    <list default="true" id="9a7aa013-5cf9-44a2-a810-9c01deedddcf" name="Changes" comment="new project 1117 - (-p.298)">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +42,12 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="emilyM-AWS" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="emilyM-AWS" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -123,7 +133,7 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/emily/Intellij/emily-AWS",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.kotlinCompiler"
@@ -135,7 +145,7 @@
       <recent name="com.emilyM.book.springboot.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.emilyM-AWS [test]">
+  <component name="RunManager" selected="Gradle.emilyM-AWS [build]">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.Application" />
       <module name="emilyM-AWS.main" />
@@ -148,6 +158,27 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="emilyM-AWS [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="emilyM-AWS [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -250,38 +281,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostsApiControllerTest.Posts_수정된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="emilyM-AWS.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.emilyM.book.springboot.web.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.emilyM.book.springboot.web" />
-      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.web.PostsApiControllerTest" />
-      <option name="METHOD_NAME" value="Posts_수정된다" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostsRepositoryTest.BaseTimeEntity_등록" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="emilyM-AWS.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.emilyM.book.springboot.domain.posts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.emilyM.book.springboot.domain.posts" />
-      <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.domain.posts.PostsRepositoryTest" />
-      <option name="METHOD_NAME" value="BaseTimeEntity_등록" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PostsRepositoryTest.게시글저장_불러오기" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="emilyM-AWS.test" />
       <extension name="coverage">
@@ -300,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.emilyM-AWS [build]" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Gradle.emilyM-AWS [test]" />
         <item itemvalue="JUnit.PostsRepositoryTest.게시글저장_불러오기" />
-        <item itemvalue="Application.Application" />
         <item itemvalue="JUnit.IndexControllerTest.메인페이지_로딩" />
-        <item itemvalue="JUnit.PostsRepositoryTest.BaseTimeEntity_등록" />
       </list>
     </recent_temporary>
   </component>
@@ -590,7 +589,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668686050695</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="new project 1117 - (-p.298)">
+      <created>1668686085734</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1668686085734</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
