@@ -17,7 +17,7 @@ apply plugin: 'io.spring.dependency-management'
 
 group 'com.emilyM.book'
 version '1.0-SNAPSHOT'
-sourceCompatibility = '17'
+
 
 repositories {
     mavenCentral()
