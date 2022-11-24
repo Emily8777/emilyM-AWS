@@ -129,7 +129,6 @@
     </option>
   </component>
   <component name="MavenRunner">
-    <option name="jreName" value="#JAVA_HOME" />
     <option name="runMavenInBackground" value="false" />
   </component>
   <component name="ProjectId" id="2F4qg0XJ1TfGe84sC8iYCt2GCex" />
@@ -145,7 +144,7 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+    "settings.editor.selected.configurable": "project.kotlinCompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -324,13 +323,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663761811809</updated>
-    </task>
-    <task id="LOCAL-00002" summary="new project 0922 - 1">
-      <created>1663854545512</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1663854545512</updated>
     </task>
     <task id="LOCAL-00003" summary="new project 0922 - 1">
       <created>1663855331340</created>
@@ -668,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669300612859</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="new project 1124 - (-p.298)">
+      <created>1669301036376</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1669301036376</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
