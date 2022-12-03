@@ -51,6 +51,9 @@ dependencies {
     // 1108 권한 관련 p.216
     testImplementation("org.springframework.security:spring-security-test")
 
+    // 1204 DB 관련 p.309
+    implementation("org.mariadb.jdbc:mariadb-java-client")
+
 
     // 생성시 코드 testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
     // 생성시 코드 testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
