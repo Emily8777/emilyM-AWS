@@ -52,7 +52,7 @@ dependencies {
     testImplementation("org.springframework.security:spring-security-test")
 
     // 1204 DB 관련 p.309
-    //implementation("org.mariadb.jdbc:mariadb-java-client")
+    implementation("org.mariadb.jdbc:mariadb-java-client")
 
 
     // 생성시 코드 testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
