@@ -43,5 +43,3 @@ bin/
 .DS_Store
 
 $ git rm --cached -r .idea/
-
-application-oauth.properties
