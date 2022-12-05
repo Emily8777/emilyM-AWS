@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7aa013-5cf9-44a2-a810-9c01deedddcf" name="Changes" comment="new project 1128 - (-p.298)">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-real.properties" afterDir="false" />
+    <list default="true" id="9a7aa013-5cf9-44a2-a810-9c01deedddcf" name="Changes" comment="new project 1205 - (-p.311)">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,62 +325,6 @@
       <option name="presentableId" value="Default" />
       <updated>1663761811809</updated>
     </task>
-    <task id="LOCAL-00010" summary="new project 1017 - 2">
-      <created>1666016255378</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1666016255378</updated>
-    </task>
-    <task id="LOCAL-00011" summary="new project 1026 - 1">
-      <created>1666718123044</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1666718123044</updated>
-    </task>
-    <task id="LOCAL-00012" summary="new project 1026 - 1(-p.134)">
-      <created>1666789462963</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1666789462963</updated>
-    </task>
-    <task id="LOCAL-00013" summary="new project 1026 - 2(-p.140)">
-      <created>1666793999092</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1666793999092</updated>
-    </task>
-    <task id="LOCAL-00014" summary="new project 1026 - 3(-p.144)">
-      <created>1666795350266</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1666795350266</updated>
-    </task>
-    <task id="LOCAL-00015" summary="new project 1026 - 4(-p.151)">
-      <created>1666803862954</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1666803862954</updated>
-    </task>
-    <task id="LOCAL-00016" summary="new project 1027 - 1(-p.157)">
-      <created>1666875216673</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1666875216673</updated>
-    </task>
-    <task id="LOCAL-00017" summary="new project 1027 - 2(-p.161)">
-      <created>1666882514677</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1666882514677</updated>
-    </task>
     <task id="LOCAL-00018" summary="new project 1027 - 3(-p.176)">
       <created>1666891222833</created>
       <option name="number" value="00018" />
@@ -669,7 +612,63 @@
       <option name="project" value="LOCAL" />
       <updated>1669657777094</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="new project 1204 - (-p.309)">
+      <created>1670086052348</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1670086052349</updated>
+    </task>
+    <task id="LOCAL-00060" summary="new project 1204 - (-p.309)">
+      <created>1670093857915</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1670093857915</updated>
+    </task>
+    <task id="LOCAL-00061" summary="new project 1204 - (-p.309)">
+      <created>1670159282157</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1670159282157</updated>
+    </task>
+    <task id="LOCAL-00062" summary="new project 1205 - (-p.311)">
+      <created>1670172340817</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1670172340817</updated>
+    </task>
+    <task id="LOCAL-00063" summary="new project 1205 - (-p.311)">
+      <created>1670172352608</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1670172352608</updated>
+    </task>
+    <task id="LOCAL-00064" summary="new project 1205 - (-p.311)">
+      <created>1670225473996</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1670225473996</updated>
+    </task>
+    <task id="LOCAL-00065" summary="new project 1205 - (-p.311)">
+      <created>1670225524614</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1670225524614</updated>
+    </task>
+    <task id="LOCAL-00066" summary="new project 1205 - (-p.311)">
+      <created>1670225538136</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1670225538136</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -706,8 +705,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new project 1004 - 1" />
-    <MESSAGE value="new project 1017 - 1" />
     <MESSAGE value="new project 1017 - 2" />
     <MESSAGE value="new project 1026 - 1" />
     <MESSAGE value="new project 1026 - 1(-p.134)" />
@@ -731,7 +728,9 @@
     <MESSAGE value="new project 1123 - (-p.298)" />
     <MESSAGE value="new project 1124 - (-p.298)" />
     <MESSAGE value="new project 1128 - (-p.298)" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project 1128 - (-p.298)" />
+    <MESSAGE value="new project 1204 - (-p.309)" />
+    <MESSAGE value="new project 1205 - (-p.311)" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project 1205 - (-p.311)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
