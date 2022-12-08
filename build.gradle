@@ -55,6 +55,7 @@ dependencies {
     implementation("org.mariadb.jdbc:mariadb-java-client")
 
 
+
     // 생성시 코드 testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
     // 생성시 코드 testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
 }
