@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7aa013-5cf9-44a2-a810-9c01deedddcf" name="Changes" comment="new project 1207 - (-p.311)">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9a7aa013-5cf9-44a2-a810-9c01deedddcf" name="Changes" comment="new project 1209 - (-p.309)">
+      <change afterPath="$PROJECT_DIR$/appspec.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-real-db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-real-db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-real.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-real.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,44 +126,47 @@
   <component name="MavenRunner">
     <option name="jreName" value="11" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2F4qg0XJ1TfGe84sC8iYCt2GCex" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/emily/OneDrive/문서/mariadb-java-client-2.7.3 (1).jar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;bf6997326307a2f8e029d03a63f6075d&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/emily/OneDrive/문서/mariadb-java-client-2.7.3 (1).jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "spring.configuration.checksum": "bf6997326307a2f8e029d03a63f6075d",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;,
-      &quot;mariadb&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "mariadb"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.emilyM.book.springboot.config" />
       <recent name="com.emilyM.book.springboot.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.emilyM-AWS [test]">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.emilyM.book.springboot.Application" />
       <module name="emilyM-AWS.main" />
@@ -326,8 +327,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.emilyM-AWS [test]" />
         <item itemvalue="Application.Application" />
+        <item itemvalue="Gradle.emilyM-AWS [test]" />
         <item itemvalue="JUnit.PostsRepositoryTest.게시글저장_불러오기" />
         <item itemvalue="JUnit.PostsApiControllerTest.Posts_수정된다" />
         <item itemvalue="JUnit.IndexControllerTest.메인페이지_로딩" />
@@ -350,76 +351,6 @@
       <workItem from="1670495703736" duration="63000" />
       <workItem from="1670495776246" duration="5412000" />
       <workItem from="1670505536538" duration="3000" />
-    </task>
-    <task id="LOCAL-00023" summary="new project 1103 - (-p.200)">
-      <created>1667491902010</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1667491902010</updated>
-    </task>
-    <task id="LOCAL-00024" summary="new project 1107 - (-p.211)">
-      <created>1667821512566</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1667821512567</updated>
-    </task>
-    <task id="LOCAL-00025" summary="new project 1109 - (-p.219)">
-      <created>1667926175355</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1667926175356</updated>
-    </task>
-    <task id="LOCAL-00026" summary="new project 1112 - (-p.222)">
-      <created>1668261277785</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1668261277785</updated>
-    </task>
-    <task id="LOCAL-00027" summary="new project 1116 - (-p.298)">
-      <created>1668530059674</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1668530059674</updated>
-    </task>
-    <task id="LOCAL-00028" summary="new project 1116 - (-p.298)">
-      <created>1668530408913</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1668530408913</updated>
-    </task>
-    <task id="LOCAL-00029" summary="new project 1116 - (-p.298)">
-      <created>1668530685005</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1668530685005</updated>
-    </task>
-    <task id="LOCAL-00030" summary="new project 1116 - (-p.298)">
-      <created>1668531000838</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1668531000838</updated>
-    </task>
-    <task id="LOCAL-00031" summary="new project 1116 - (-p.298)">
-      <created>1668531335054</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1668531335054</updated>
-    </task>
-    <task id="LOCAL-00032" summary="new project 1116 - (-p.298)">
-      <created>1668531476326</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1668531476326</updated>
     </task>
     <task id="LOCAL-00033" summary="new project 1116 - (-p.298)">
       <created>1668531641343</created>
@@ -694,7 +625,77 @@
       <option name="project" value="LOCAL" />
       <updated>1670353737600</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="new project 1209 - (-p.309)">
+      <created>1670514389225</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1670514389225</updated>
+    </task>
+    <task id="LOCAL-00073" summary="new project 1209 - (-p.309)">
+      <created>1670514925143</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1670514925143</updated>
+    </task>
+    <task id="LOCAL-00074" summary="new project 1209 - (-p.309)">
+      <created>1670515201797</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1670515201797</updated>
+    </task>
+    <task id="LOCAL-00075" summary="new project 1209 - (-p.309)">
+      <created>1670515812358</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1670515812358</updated>
+    </task>
+    <task id="LOCAL-00076" summary="new project 1209 - (-p.309)">
+      <created>1670516353101</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1670516353101</updated>
+    </task>
+    <task id="LOCAL-00077" summary="new project 1209 - (-p.309)">
+      <created>1670516468083</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1670516468084</updated>
+    </task>
+    <task id="LOCAL-00078" summary="new project 1209 - (-p.309)">
+      <created>1670516746040</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1670516746040</updated>
+    </task>
+    <task id="LOCAL-00079" summary="new project 1209 - (-p.309)">
+      <created>1670517397758</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1670517397758</updated>
+    </task>
+    <task id="LOCAL-00080" summary="new project 1209 - (-p.309)">
+      <created>1670519737540</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1670519737541</updated>
+    </task>
+    <task id="LOCAL-00081" summary="new project 1209 - (-p.309)">
+      <created>1670522299110</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1670522299110</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -734,7 +735,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new project 1026 - 1(-p.134)" />
     <MESSAGE value="new project 1026 - 2(-p.140)" />
     <MESSAGE value="new project 1026 - 3(-p.144)" />
     <MESSAGE value="new project 1026 - 4(-p.151)" />
@@ -759,7 +759,8 @@
     <MESSAGE value="new project 1205 - (-p.311)" />
     <MESSAGE value="new project 1206 - (-p.311)" />
     <MESSAGE value="new project 1207 - (-p.311)" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project 1207 - (-p.311)" />
+    <MESSAGE value="new project 1209 - (-p.309)" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project 1209 - (-p.309)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
